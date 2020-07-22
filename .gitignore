@@ -1,0 +1,5 @@
+*.h5
+*.pb
+
+/computed_data/*
+/test_results/*
